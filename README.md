@@ -203,3 +203,5 @@ If you want to search for any news data, consider using [our API](https://newsca
 
 ## Licence
 MIT
+
+Thanks for Reading, Keep Coding. 
